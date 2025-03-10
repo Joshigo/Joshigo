@@ -16,6 +16,8 @@ Passionate about technology, eager to learn more every day, with 1 year of exper
 
 
 - ### **Contact:** [hidalgojosemanuel59@gmail.com](mailto:hidalgojosemanuel59@gmail.com.com)
+- ### **to me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/jos%C3%A9-manuel-hidalgo-7b21b6305)](https://www.linkedin.com/in/jos%C3%A9-manuel-hidalgo-7b21b6305)
+
 
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJlajR6bnB1dzQ5dTRmNnIzMW5jM3ZuenVpeHhnZDI2aWpvYnNlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" width="200"/>
