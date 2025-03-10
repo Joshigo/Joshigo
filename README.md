@@ -15,7 +15,7 @@ Passionate about technology, eager to learn more every day, with 1 year of exper
 - ### Frameworks 	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white), ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white), ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white).
 
 
-- ### **Email:** [hidalgojosemanuel59@gmail.com](mailto:hidalgojosemanuel59@gmail.com.com)
+- ### **Contac:** [hidalgojosemanuel59@gmail.com](mailto:hidalgojosemanuel59@gmail.com.com)
 
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJlajR6bnB1dzQ5dTRmNnIzMW5jM3ZuenVpeHhnZDI2aWpvYnNlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" width="200"/>
