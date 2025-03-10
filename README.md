@@ -2,7 +2,7 @@
 
 ## Computer Engineering
 
-Passionate about technology, eager to learn more every day, with 1 year of experience.
+Passionate about technology, eager to learn more every day, with 2 year of experience.
 
 
 
